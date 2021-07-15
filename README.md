@@ -1,6 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=gulsumcamoglu)
-
 
 🌱 I’m currently learning PHP/Laravel Training
 
