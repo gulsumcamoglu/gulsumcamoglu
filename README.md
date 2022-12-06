@@ -4,7 +4,6 @@
 
 🤔 I’m interested in Machine Learning, Data Science
 
-💬 Ask me about anything!
 
 ![Gülsüm Çamoğlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsumcamoglu&show_icons=true&theme=radical&card_width=350)
 
