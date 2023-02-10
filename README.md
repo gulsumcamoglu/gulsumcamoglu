@@ -4,7 +4,7 @@
 
 🤔 I’m interested in Machine Learning, Data Science
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulsumcamoglu&color=blueviolet" alt="gulsumcamoglu" /> </p>
 
 <p align="center">
 	<a href="https://github.com/gulsumcamoglu">
