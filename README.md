@@ -5,7 +5,7 @@
 🤔 I’m interested in Machine Learning, Data Science
 
 
-![Gülsüm Çamoğlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsumcamoglu&show_icons=true&theme=radical&card_width=350)
+![Gülsüm Çamoğlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsumcamoglu&show_icons=true&theme=radical&card_width=330)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumcamoglu&show_icons=true&theme=radical&card_width=400&langs_count=10)](https://github.com/gulsumcamoglu/github-readme-stats)
 
