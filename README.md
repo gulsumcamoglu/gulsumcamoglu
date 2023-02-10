@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-🌱 I’m currently learning PHP/Laravel Training
+🌱 I’m currently learning Python/Django Training
 
 🤔 I’m interested in Machine Learning, Data Science
 
 
-![Gülsüm Çamoğlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsumcamoglu&show_icons=true&theme=radical&card_width=330)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumcamoglu&show_icons=true&theme=radical&card_width=400&langs_count=10)](https://github.com/gulsumcamoglu/github-readme-stats)
-
+<p align="center">
+	<a href="https://github.com/gulsumcamoglu">
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulsumcamoglu&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="gulsumcamoglu"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsumcamoglu&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsumcamoglu"/>
+	</a>
+</p>
 
 <!--
 **gulsumcamoglu/gulsumcamoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
