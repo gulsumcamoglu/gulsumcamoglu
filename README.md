@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python/Django Training
+🌱 I’m currently learning Javascript and Spring Boot Training
 
-🤔 I’m interested in Machine Learning, Data Science
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulsumcamoglu&color=blueviolet" alt="gulsumcamoglu" /> </p>
 
